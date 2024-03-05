@@ -1,2 +1,1 @@
-# expense-management
-Quan ly tai chinh ca nhan
+# Quanlychitieu-11132023
